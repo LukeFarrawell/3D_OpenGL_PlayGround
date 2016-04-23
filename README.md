@@ -2,7 +2,7 @@
 Playground for me to test and learn OpenGL.
 
 # What Is This?
-This is just a repository for me to upload anything I have made in 3D with OpenGL that is not related to any project, but is for learning purposes.
+This is just a repository for me to upload anything I have made in 3D with OpenGL that is not related to any project, but is for learning purposes. Code may not be well designed in this repository.
 
 # Libraries Used:
 * [LWJGL3](https://www.lwjgl.org/)
